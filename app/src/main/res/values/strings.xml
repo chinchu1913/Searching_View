@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Image Search</string>
+    <string name="text_no_connectivity">No internet connection</string>
+    <string name="text_connectivity">Connected</string>
+    <string name="empty">No results for given query</string>
+    <string name="empty_first">Enter your search query</string>
+
+</resources>
